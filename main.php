@@ -151,4 +151,3 @@ class My_Widget extends WP_Widget{
         return $new_instance;
     }
 }
-/*あとでgit へpush */
